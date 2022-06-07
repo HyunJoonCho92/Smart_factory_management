@@ -1,0 +1,62 @@
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.exe.config
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\MySqlConnector.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Buffers.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Memory.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\MySqlConnector.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Buffers.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Memory.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.csproj.SuggestedBindingRedirects.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Form_signUp.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Main.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Properties.Resources.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.csproj.CopyComplete
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Form_manageMode.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Form_delete.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Form_update.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Form_login.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.exe.config
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.pdb
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\MySqlConnector.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Buffers.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Memory.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\MySqlConnector.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Buffers.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Memory.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.csproj.AssemblyReference.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.csproj.SuggestedBindingRedirects.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Form_delete.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Form_login.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Form_manageMode.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Form_signUp.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Form_update.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Main.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\_미니_프로젝트_Ver_3_스마트팩토리_전용_설비_관리SW.Properties.Resources.resources
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.csproj.GenerateResource.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.csproj.CoreCompileInputs.cache
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.csproj.CopyComplete
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.exe
+C:\Users\NEXT_ENERGY\Desktop\C#_Code\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW 작업본 0510\obj\Debug\[미니 프로젝트 Ver 3]스마트팩토리_전용_설비_관리SW.pdb
